@@ -1,3 +1,8 @@
+# 📄 Volatile Data Collection Scripts
+
+![Platform](https://img.shields.io/badge/platform-Windows-blue)
+![Use Case](https://img.shields.io/badge/use--case-DFIR-purple)
+
 # Win_hostInfo_internet.bat
 Run with **administrator privileges** on a host with **internet access** to collect Windows host information (system, network) into an output txt file.<br><br>
 Collects the following (`command` used in parenthesis):
